@@ -1,0 +1,17 @@
+nav> ul > li{display: inline;
+margin-right: 10px;
+}
+nav li > a{
+    text-decoration: none;
+    color: rgb(12, 141, 0);
+}
+footer > p {
+    color:rgb(12, 141, 0); text-align:right; margin-top: 500px;
+}
+#mst{
+    color:  rgb(9, 105, 0);
+}
+#margin{ margin-top: -20px; font-weight: bold; margin-left: 13px;}
+#soroj1{
+    text-align: left;
+}
